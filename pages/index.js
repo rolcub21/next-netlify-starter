@@ -1,4 +1,4 @@
-import Head from 'next/head'
+genimport Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import Link from 'next/link'
@@ -19,7 +19,7 @@ export default function Home() {
         </p>
 
         <p>
-          <Link href="/blog">Read my first blog post →</Link>
+          <Link href="/blog">SVD and Eigen Decomposition</Link>
         </p>
       </main>
 
