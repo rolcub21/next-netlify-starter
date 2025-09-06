@@ -6,14 +6,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Personal Blog</title>
+        <title>My Personal Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome here" />
+        <Header title="🌟 Welcome to My Blog 🌟" />
         <p className="description">
-          Hello there</code>
+          This is my very first site deployed with <strong>Next.js</strong> and <strong>Netlify</strong>. 🚀
+        </p>
+        <p>
+          I’ll be posting updates here soon — stay tuned!
         </p>
       </main>
 
