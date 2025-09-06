@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="🌟 Welcome to My Blog 🌟" />
+        <Header title=" Welcome to My Blog " />
         <p className="description">
           This is my very first site deployed with <strong>Next.js</strong> and <strong>Netlify</strong>. 🚀
         </p>
